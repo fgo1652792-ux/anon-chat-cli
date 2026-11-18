@@ -1,0 +1,4 @@
+.chat_cli_store.json
+*.tmp
+__pycache__/
+*.pyc
